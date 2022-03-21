@@ -1,0 +1,15 @@
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\bin\Debug\Programacion3IPAC2022.exe.config
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\bin\Debug\Programacion3IPAC2022.exe
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\bin\Debug\Programacion3IPAC2022.pdb
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.csproj.AssemblyReference.cache
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.Properties.Resources.resources
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.csproj.GenerateResource.cache
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.csproj.CoreCompileInputs.cache
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.exe
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.pdb
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.Suma.resources
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.FuncionesFecha.resources
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.FuncionesRecursivas.resources
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.Arreglos.resources
+C:\Users\Jose Carlos\Desktop\Programacion 3\Programas-Clase2022\Programacion3IPAC2022\Programacion3IPAC2022\obj\Debug\Programacion3IPAC2022.FuncionesAsincronas.resources

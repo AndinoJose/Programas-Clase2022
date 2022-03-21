@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a2a53aa-5174-47a4-a2c4-e0c49e8f1b88": {
+      "ProjectGuid": "9a2a53aa-5174-47a4-a2c4-e0c49e8f1b88",
+      "DisplayName": "Programacion3IPAC2022",
+      "ColorIndex": 0
+    },
+    "8aa24cf1-9830-47ee-8c9e-0587c4b9cf31": {
+      "ProjectGuid": "8aa24cf1-9830-47ee-8c9e-0587c4b9cf31",
+      "DisplayName": "Sumas",
+      "ColorIndex": 1
+    },
+    "74fff3dc-7378-47cc-93e0-ef7291e61b9e": {
+      "ProjectGuid": "74fff3dc-7378-47cc-93e0-ef7291e61b9e",
+      "DisplayName": "ClasesLibreria",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
